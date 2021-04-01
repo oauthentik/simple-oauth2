@@ -47,7 +47,7 @@
   ],
   "dependencies": {
     "@hapi/hoek": "^9.0.4",
-    "@hapi/wreck": "^17.0.0",
+    "@hapi/wreck": "^17.1.0",
     "debug": "^4.1.1",
     "joi": "^17.3.0"
   },
